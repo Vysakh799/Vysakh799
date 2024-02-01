@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Iam currently looking for a Internship in Fullstack - Python<br>👯‍♂️ I would like to collaborate with front - end developers<br>🌱 Iam currently learning Front - end<br>🗨️ Ask me about Front - end<br>⚡Fun fact - Lazy but smart
+🔭 Iam currently looking expertising Python - Fullstack<br>👯‍♂️ I would like to collaborate with front - end developers<br>🌱 Iam currently learning Front - end<br>🗨️ Ask me about Front - end<br>⚡Fun fact - Lazy but smart
 
 
 ## 🌐 Socials:
